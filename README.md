@@ -1,4 +1,5 @@
 Estación 6 — Prototipo de sistema de visualización de fruta
+
 Este repositorio contiene los avances de diseño, programación y desarrollo del prototipo correspondiente a la Estación 6 del proyecto.
 
 El trabajo contempla la elaboración de un prototipo basado en Arduino, junto con el diseño y la simulación de sus componentes mediante Tinkercad. El objetivo es establecer una primera aproximación al funcionamiento del sistema y documentar progresivamente las etapas de desarrollo.
