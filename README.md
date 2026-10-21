@@ -56,26 +56,4 @@ Evaluar y definir el mecanismo de transporte de la fruta.
 
 Actualizar las evidencias conforme avance el desarrollo.
 
-Historial de avances
 
-Versión
-
-Descripción
-
-v0.1
-
-Registro inicial del código y del diseño del prototipo.
-
-v0.2
-
-Incorporación de fotografías, pruebas y ajustes del sistema.
-
-Las versiones posteriores se actualizarán a medida que se implementen y validen nuevas funcionalidades.
-
-Organización del repositorio
-
-Codigo-Tinker-Prototipo-Arduino.txt: código inicial del prototipo.
-
-Link-Tinkercad-Prototipo.txt: referencia al diseño en Tinkercad.
-
-evidencias/: fotografías y registros visuales del desarrollo.
