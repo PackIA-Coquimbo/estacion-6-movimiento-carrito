@@ -35,9 +35,9 @@ Actualmente, se dispone de:
 
 En esta sección se incorporarán fotografías del montaje inicial y de sus componentes.
 
-\<!-- Reemplaza esta nota por la imagen que subas a GitHub -->
 
-*Figura 1. Primer prototipo de Arduino.*
+
+
 
 ### 2. Diseño en Tinkercad
 
