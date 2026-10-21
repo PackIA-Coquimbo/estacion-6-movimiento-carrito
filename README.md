@@ -1,6 +1,5 @@
-# Estación 6 — Prototipo de visualización de fruta
+# Prototipo de visualización de fruta
 
-##  Descripción del proyecto
 
 Este repositorio contiene los avances del diseño y desarrollo del prototipo correspondiente a la Estación 6 del proyecto.
 
