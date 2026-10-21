@@ -1,59 +1,75 @@
-Estación 6 — Prototipo de sistema de visualización de fruta
+# Estación 6 — Prototipo de visualización de fruta
 
-Este repositorio contiene los avances de diseño, programación y desarrollo del prototipo correspondiente a la Estación 6 del proyecto.
+##  Descripción del proyecto
 
-El trabajo contempla la elaboración de un prototipo basado en Arduino, junto con el diseño y la simulación de sus componentes mediante Tinkercad. El objetivo es establecer una primera aproximación al funcionamiento del sistema y documentar progresivamente las etapas de desarrollo.
+Este repositorio contiene los avances del diseño y desarrollo del prototipo correspondiente a la Estación 6 del proyecto.
 
-Objetivos
+El trabajo contempla la programación con Arduino y el diseño inicial en Tinkercad, con el propósito de establecer una primera propuesta de funcionamiento del sistema.
 
-Desarrollar una primera versión del prototipo utilizando Arduino.
+---
 
-Diseñar y visualizar la propuesta mediante Tinkercad.
+##  Objetivos
 
-Documentar el código fuente y los componentes utilizados.
+- Desarrollar una primera versión del prototipo con Arduino.
+- Diseñar y visualizar la propuesta mediante Tinkercad.
+- Documentar el código fuente y los componentes utilizados.
+- Registrar las pruebas y mejoras realizadas.
+- Definir el mecanismo de transporte de la fruta entre las estaciones.
 
-Registrar las pruebas, los resultados y las mejoras realizadas durante el desarrollo.
+---
 
-Coordinar la propuesta de un mecanismo de transporte para el desplazamiento de la fruta entre las estaciones, según los requerimientos del proyecto.
+##  Estado actual del proyecto
 
-Estado actual del desarrollo
+**Etapa:** Desarrollo inicial del prototipo.
 
-Etapa: Desarrollo inicial del prototipo.
+Actualmente, se dispone de:
 
-Actualmente, se cuenta con una primera propuesta de prototipo, un archivo con el código de Arduino y un enlace al diseño en Tinkercad. Estos elementos constituyen la base para continuar con la implementación, las pruebas y los ajustes posteriores.
+- Código inicial para Arduino.
+- Enlace al diseño del prototipo en Tinkercad.
+- Primera propuesta de implementación del sistema.
 
-Evidencias de avance
+---
 
-1. Primer prototipo de Arduino
+##  Evidencias de avance
 
-En esta sección se documentará el montaje inicial del prototipo, incluyendo fotografías de los componentes, sus conexiones y las pruebas realizadas.
+### 1. Primer prototipo de Arduino
 
+En esta sección se incorporarán fotografías del montaje inicial y de sus componentes.
 
+\<!-- Reemplaza esta nota por la imagen que subas a GitHub -->
 
-Figura 1. Registro del primer prototipo de Arduino. Imagen pendiente de incorporar.
+*Figura 1. Primer prototipo de Arduino.*
 
-2. Diseño en Tinkercad
+### 2. Diseño en Tinkercad
 
-El diseño digital permitirá visualizar la propuesta y facilitar la revisión de los componentes y las conexiones del circuito.
+El diseño digital permitirá visualizar los componentes y las conexiones del circuito.
 
-Enlace al diseño: Consultar el archivo Link-Tinkercad-Prototipo.txt.
+- **Archivo:** `Link-Tinkercad-Prototipo.txt`
+- **Código inicial:** `Codigo-Tinker-Prototipo-Arduino.txt`
 
-3. Código fuente
+---
 
-El código inicial se encuentra documentado en el repositorio y servirá como base para las siguientes iteraciones del prototipo.
+##  Próximas actividades
 
-Archivo actual: Codigo-Tinker-Prototipo-Arduino.txt.
+- Revisar el código inicial.
+- Verificar las conexiones de los componentes.
+- Realizar pruebas de funcionamiento.
+- Incorporar fotografías del prototipo.
+- Definir el mecanismo de transporte de la fruta.
+- Actualizar la documentación según los avances.
 
-Próximas actividades
+---
 
-Revisar y validar el código del prototipo.
+##  Archivos del repositorio
 
-Verificar las conexiones y el funcionamiento de los componentes.
+| Archivo                               | Descripción                   |
+| ------------------------------------- | ----------------------------- |
+| `Codigo-Tinker-Prototipo-Arduino.txt` | Código inicial de Arduino     |
+| `Link-Tinkercad-Prototipo.txt`        | Enlace al diseño en Tinkercad |
 
-Realizar pruebas iniciales y registrar sus resultados.
+---
 
-Evaluar y definir el mecanismo de transporte de la fruta.
+**Proyecto en desarrollo:** este repositorio se actualizará progresivamente con los avances, las evidencias y las mejoras de la Estación 6.
 
-Actualizar las evidencias conforme avance el desarrollo.
 
 
